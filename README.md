@@ -1,2 +1,2 @@
 # pcare-v3-app-ui
-public
+static files
